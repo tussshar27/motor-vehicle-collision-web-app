@@ -8,7 +8,7 @@ st.title("Motor Vehicle Collisions in New York City 💥🚗")
 st.markdown("# This is streamlit dashboard that can be used to analyze moto vehicle collisions data.")
 
 DATA_URL = (
-    "E:/TUSHAR ANNAM/Guided_Project/motor_vehicle_collision_data_analysing_web_app/Motor_Vehicle_Collisions_-_Crashes.csv"
+    "E:/TUSHAR ANNAM/Guided_Project/motor_vehicle_collision_web_app/Motor_Vehicle_Collisions_-_Crashes.csv"
     #importing the csv file
 )
 
